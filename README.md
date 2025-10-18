@@ -1,4 +1,4 @@
-![logo](https://github.com/siddiquieses/siddiquieses/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Muhammad Noman Siddiqui</h1>
 <h3 align="center">A passionate software engineer from Pakistan</h3>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUNSzPxe2kJ1-4e_tvJadE8OWtkekzKbkbg&s" align="right" width="400"> 
